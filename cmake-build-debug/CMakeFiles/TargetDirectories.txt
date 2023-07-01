@@ -1,0 +1,3 @@
+/home/mk8bk/c/clibjson/cmake-build-debug/CMakeFiles/clibjson.dir
+/home/mk8bk/c/clibjson/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mk8bk/c/clibjson/cmake-build-debug/CMakeFiles/rebuild_cache.dir
