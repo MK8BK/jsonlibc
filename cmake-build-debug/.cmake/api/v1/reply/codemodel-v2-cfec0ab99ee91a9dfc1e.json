@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/mk8bk/c/clibjson/cmake-build-debug",
-		"source" : "/home/mk8bk/c/clibjson"
+		"build" : "/home/mk8bk/C/projects/jsonlibc/cmake-build-debug",
+		"source" : "/home/mk8bk/C/projects/jsonlibc"
 	},
 	"version" : 
 	{

@@ -1,4 +1,4 @@
-/home/mk8bk/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/mk8bk/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/ninja/linux/x64/ninja -G Ninja -S /home/mk8bk/c/clibjson -B /home/mk8bk/c/clibjson/cmake-build-debug
+/home/mk8bk/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/mk8bk/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/bin/ninja/linux/x64/ninja -G Ninja -S /home/mk8bk/C/projects/jsonlibc -B /home/mk8bk/C/projects/jsonlibc/cmake-build-debug
 -- The C compiler identification is GNU 11.3.0
 -- Detecting C compiler ABI info
 -- Detecting C compiler ABI info - done
@@ -7,4 +7,4 @@
 -- Detecting C compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/mk8bk/c/clibjson/cmake-build-debug
+-- Build files have been written to: /home/mk8bk/C/projects/jsonlibc/cmake-build-debug

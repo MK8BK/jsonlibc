@@ -1,4 +1,4 @@
-# Install script for directory: /home/mk8bk/c/clibjson
+# Install script for directory: /home/mk8bk/C/projects/jsonlibc
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/mk8bk/c/clibjson/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/mk8bk/C/projects/jsonlibc/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

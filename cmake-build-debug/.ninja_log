@@ -1,0 +1,4 @@
+# ninja log v5
+0	21	1688505394336318938	CMakeFiles/clibjson.dir/library.c.o	55cfc4055d1e723d
+0	21	1688505394340318942	CMakeFiles/clibjson.dir/tests/test.c.o	7ef9478cabebcdc8
+21	168	1688505394484319088	libclibjson.a	5a357a3a337b2662
